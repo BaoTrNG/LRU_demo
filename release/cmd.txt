@@ -1,0 +1,8 @@
+page trong, phan tu duoc them vao-> 3
+page trong, phan tu duoc them vao-> 5
+page trong, phan tu duoc them vao-> 6
+page trong, phan tu duoc them vao-> 1
+phan tu bi trung-> 3; loai-> 3, them-> 3
+page day nhung phan tu khong bi trung; loai-> 5, them->7
+phan tu bi trung-> 1; loai-> 6, them-> 1
+2 5 4 7
