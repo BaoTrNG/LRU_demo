@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Image/400x400.jpg</file>
+        <file>../../Image/bear2.gif</file>
+        <file>../../Image/bear3.gif</file>
+    </qresource>
+</RCC>
